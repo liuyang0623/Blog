@@ -4,7 +4,7 @@
 
 ### 前端
 
-目录下存放的是前端知识体系的学习笔记提交a。
+目录下存放的是前端知识体系的学习笔记。
 
 ### 源码解读
 
@@ -25,3 +25,5 @@
 * [JS浏览器事件循环机制](https://github.com/webproblem/Blog/issues/2)
 
 * [Number浮点数运算详解](https://github.com/webproblem/Blog/issues/1)
+  
+提交a
